@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! JAVA Jenkins 1dd23456  ssef sss</h2>
+<h2>Jenkins+Github自动化构建</h2>
 </body>
 </html>
